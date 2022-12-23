@@ -1,8 +1,6 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Talha Waris</h1>
 <h3 align="center">A ardent android developer from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fpreviews%2F002%2F254%2F200%2Foriginal%2Fprogrammer-computer-expert-rgb-color-icon-vector.jpg&imgrefurl=https%3A%2F%2Fwww.vecteezy.com%2Fvector-art%2F2254200-programmer-computer-expert-rgb-color-icon&tbnid=-jF1wvLgb9MTwM&vet=12ahUKEwiDnJKggo_8AhWzXaQEHey6CQYQMygqegUIARDGAg..i&docid=6zhlTi8q481DkM&w=1920&h=1920&itg=1&q=Animated%20Coding%20image&ved=2ahUKEwiDnJKggo_8AhWzXaQEHey6CQYQMygqegUIARDGAg">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=talha-waris60&label=Profile%20views&color=0e75b6&style=flat" alt="talha-waris60" /> </p>
 
 <p align="left"> <a href="https://twitter.com/maliktalha_60" target="blank"><img src="https://img.shields.io/twitter/follow/maliktalha_60?logo=twitter&style=for-the-badge" alt="maliktalha_60" /></a> </p>
