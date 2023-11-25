@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/maliktalha_60" target="blank"><img src="https://img.shields.io/twitter/follow/maliktalha_60?logo=twitter&style=for-the-badge" alt="maliktalha_60" /></a> </p>
 
-- 🔭 I’m currently working on **Bill Payments app**
+- 🔭 I’m currently working on **Android Kotlin Projects**
 
 - 🌱 I’m currently learning **Android Development**
 
