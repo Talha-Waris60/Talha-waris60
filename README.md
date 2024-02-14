@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Android Kotlin Projects**
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently working as **Android Developer**
 
 - 💬 Ask me about **Android**
 
